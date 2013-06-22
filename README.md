@@ -2,6 +2,12 @@
 
 Dump **Google Chrome** `cookies` for a `url` to `stdout`.
 
+### Installation
+
+```bash
+npm install -g chrome-cookies
+```
+
 ### Examples
 
 ```bash

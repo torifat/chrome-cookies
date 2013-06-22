@@ -1,0 +1,31 @@
+{
+  "name": "chrome-cookies",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "description": "dump google chrome cookies for a url to stdout",
+  "bin": {
+    "chrome-cookies": "./bin/chrome-cookies"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/torifat/chrome-cookies.git"
+  },
+  "keywords": [
+    "chrome",
+    "google-chrome",
+    "cookie",
+    "cookies"
+  ],
+  "author": "Rifat Nabi <to.rifat@gmail.com>",
+  "licenses": "MIT",
+  "bugs": {
+    "url": "https://github.com/torifat/chrome-cookies/issues"
+  },
+  "dependencies": {
+    "sqlite3": "~2.1.10",
+    "tldjs": "~1.2.0"
+  }
+}

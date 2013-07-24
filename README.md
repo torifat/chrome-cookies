@@ -8,6 +8,8 @@ Dump **Google Chrome** `cookies` for a `url` to `stdout`.
 npm install -g chrome-cookies
 ```
 
+[![NPM](https://nodei.co/npm/chrome-cookies.png)](https://nodei.co/npm/chrome-cookies/)
+
 ### Examples
 
 ```bash

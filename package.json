@@ -1,7 +1,7 @@
 {
   "name": "chrome-cookies",
   "preferGlobal": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "dump google chrome cookies for a url to stdout",
   "bin": {
     "chrome-cookies": "./bin/chrome-cookies"
@@ -25,7 +25,7 @@
     "url": "https://github.com/torifat/chrome-cookies/issues"
   },
   "dependencies": {
-    "sqlite3": "~2.1.10",
-    "tldjs": "~1.2.0"
+    "sqlite3": "^3.1.4",
+    "tldjs": "^1.6.2"
   }
 }
